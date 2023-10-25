@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+
+.text-success-color{
+    color:#057a12;
+}
+
+
+.fa-magnifying-glass:before, .fa-search:before {
+    content: "\f002";
+    padding: 40px;
+}
+
+.cart{
+    cursor: pointer;
+}
+
+.btn-link-pos-neg{
+    /* border: 1px solid black;
+    border-radius: 10px; */
+    text-decoration: none;
+}
+
+.cart-icon{
+    font-size: 40px;
+}
+
+.box1{
+    padding: 10px;
+}
+
+.circle-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+   
+}
+
+#form1{
+    width: 50px;
+}
